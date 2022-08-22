@@ -4,10 +4,14 @@
 for more information See [7.11 Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 This file is a simplified version of this link at time of creation.
 
+
+*** If you add Sub Modules while Visual Studio is open you will need to close and relaunch it to see multiple repositries in the Git Sections ***
+
+
 From VS Code or Terminal windows.
 Change to 'src' folder under Repository folder.
 
-*** Make sure you are in the SRC Folder when adding Git Sub Modules***$pwd
+*** Make sure you are in the SRC Folder when adding Git Sub Modules ***
 
 Run:
 ```
