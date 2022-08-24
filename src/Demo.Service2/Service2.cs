@@ -10,5 +10,9 @@ namespace Demo.Service2
         {
             return $"Value: ${ValuePassedIn} was found in {Environment.NewLine}Property:'ValuePassedIn' ";
         }
+        public string FakeMethodHere()
+        {
+            return "Service 2 - Fake Method";
+        }
     }
 }
